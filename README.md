@@ -14,7 +14,7 @@ Mi Nombre es Antonio , soy Administrador de Sistemas , pero estoy especializado 
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+//<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
 
 <br />
 
