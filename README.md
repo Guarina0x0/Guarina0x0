@@ -1,24 +1,15 @@
-### Hi there 👋
+### Hola a Todos! 👋
 
-## Hello World 👋 It's [goncy!](https://gonzalopozzo.com)
-I'm a Frontend developer with my ♥ in [React](https://reactjs.org). I'm a [Cypress](https://cypress.io/ambassadors/) ambassador, [Twitch](https://twitch.gonzalopozzo.com) partner and creator of [Pency](https://pency.app).
+## Hola Mundo 👋 
+Mi Nombre es Antonio , soy Administrador de Sistemas , pero estoy especializado en Ciberseguridad.
 
 <br/>
 
-<a href="https://twitter.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<a href="https://www.linkedin.com/in/antonio-gallego-lópez-14047b1bb">
+<img align="left" alt="Antonio Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://linkedin.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.instagram.com/goncy.js/">
-<img align="left" alt="Gonzalo Pozzo Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://twitch.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
+<a href="https://www.youtube.com/channel/UCtQZyAY6FQhPU4SFJU3vs5Q">
+<img align="left" alt="Heimdall-Eye YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
@@ -27,14 +18,6 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org). I'm a [Cyp
 
 <br />
 
-## What i'm up to
-
-- 🔭 I’m currently working @ [TradeHelm](https://tradehelm.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
-
-<br />
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
