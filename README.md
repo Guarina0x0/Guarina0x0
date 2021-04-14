@@ -14,12 +14,6 @@ Mi Nombre es Antonio , soy Administrador de Sistemas , pero estoy especializado 
 
 <br />
 
-//<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-
-<br />
 
 
 
----
-
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=goncy&show_icons=true&hide_border=true)
