@@ -31,58 +31,22 @@ Cybersecurity analyst | OSCP & eWPT Student
 ## Connect with me <img src="https://giphy.com/gifs/bear-ketakuma-takadabear-RN89lrpGlBlBbspcef.gif" width="60">
 
 
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="envoy_"></a>
-<a href="https://discordapp.com/users/665550588582297622"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
-
+<a href="https://www.linkedin.com/in/antonio-gallego-lópez-14047b1bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:guarina000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://guarina0x0.github.io/index.html"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="envoy_"></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ## About Me...
 
-- 🔗 I’m currently learning Blockchain
+- 🔗 I’m currently a Cybersecurity Analyst (Hacking).
 - 👐 I’m looking to contribute to open source
-- 🥅 2022 Goals: Learn more about Blockchains and Solidity
-- ⚡ Fun fact: I love to play games
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.15;
-
-contract Profile {
-    string public name = "Vedant Chainani";
-    string public pronouns = "He | Him";
-    string public currentFocus = "Web3 / dApps";
-
-    string[] internal skills;
-
-    function getSkills() public returns (string[] memory) {
-        skills = [
-            string("Javascript"),
-            "Python",
-            "Solidity",
-            "Hardhat",
-            "ethers"
-        ];
-
-        return skills;
-    }
-
-    function fun() public view returns (string memory) {
-        return
-            "Two bytes meet.  The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'";
-    }
-}
-
-```
 
 <br>
 
