@@ -16,10 +16,6 @@ Cybersecurity analyst | OSCP & eWPT Student
 
 ![Visitor Count](https://profile-counter.glitch.me/{Guarina0x0}/count.svg)
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-
 <div style="text-align: right">
 </div>
 
@@ -28,11 +24,11 @@ Cybersecurity analyst | OSCP & eWPT Student
 <a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Blockchain+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Red Team+Blockchain;Currently+OSCP + eWPT student "alt="Currently OSCP and eWPT student">
 </p>
 
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## Connect with me <img src="https://giphy.com/gifs/bear-ketakuma-takadabear-RN89lrpGlBlBbspcef" width="60">
 
 
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
