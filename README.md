@@ -19,7 +19,7 @@ Cybersecurity analyst | OSCP & eWPT Student
 <div style="text-align: right">
 </div>
 
-<img src="./assets/cover.gif" alt="Cover">
+<img src="./assets/cover.gif" alt="Cover" width="200" height="200">
 
 <img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
