@@ -21,7 +21,7 @@ Cybersecurity analyst | OSCP & eWPT Student
 
 <img src="./assets/cover.gif" alt="Cover">
 
-img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
+<img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Red+Team+Blockchain!;Currently+OSCP+eWPT+student"alt="Currently OSCP and eWPT student">
