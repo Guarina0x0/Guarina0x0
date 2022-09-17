@@ -1,11 +1,5 @@
 
 
-## Hello RedTeam! 👋 
-
-Cybersecurity analyst | OSCP & eWPT Student
-
-<br/>
-
 <a href="https://www.linkedin.com/in/antonio-gallego-lópez-14047b1bb">
 <img align="left" alt="Antonio Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
@@ -75,4 +69,4 @@ Cybersecurity analyst | OSCP & eWPT Student
 
 <br>
 
-<img src="https://www.animatedimages.org/data/media/56>
+<img src="https://www.animatedimages.org/data/media/56">
