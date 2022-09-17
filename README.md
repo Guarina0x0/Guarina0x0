@@ -62,10 +62,13 @@ Cybersecurity analyst | OSCP & eWPT Student
 <img style="margin: 10px" src="./svg/burpsuite.svg" alt="Burp Suite" height="50" />  
 <img style="margin: 10px" src="./svg/nmap.svg" alt="Cover" alt="Nmap" height="50" />
 <img style="margin: 10px" src="./svg/wfuzz.svg" alt="Wfuzz" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity" height="50" />
-<img style="margin: 10px" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="Hardhat" height="50" />
-<img style="margin: 10px" src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="ethers.js" height="50">
+<img style="margin: 10px" src="./svg/wireshark.png" alt="WireShark" height="50" />
+<img style="margin: 10px" src="./svg/kali.png" alt="Kali Linux" height="50" />
+<img style="margin: 10px" src="./svg/tenable.png" alt="Tenable" height="50" />
+<img style="margin: 10px" src="./svg/acunetix.png" alt="Acunetix" height="50" />
+
+
+
 
 </div>
 
