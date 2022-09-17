@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/in/antonio-gallego-lópez-14047b1bb">
+
 <img align="left" alt="Antonio Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
@@ -13,9 +13,9 @@
 <div style="text-align: right">
 </div>
 
-<center>
-<img src="./assets/cover.gif" alt="Cover" width="200" height="200">
-</center>
+
+<img src="./assets/cover.gif" alt="Cover" width="200" height="200" class="center">
+
 <img align="right" src="./svg/logo.jpg" width="200" alt="There are no mistakes in life, only lessons"/></a>
 
 <p align="center">
