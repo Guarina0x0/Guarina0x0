@@ -60,4 +60,3 @@
 
 <br>
 
-<img src="https://www.animatedimages.org/data/media/56">
