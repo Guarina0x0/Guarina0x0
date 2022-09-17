@@ -19,8 +19,9 @@ Cybersecurity analyst | OSCP & eWPT Student
 <div style="text-align: right">
 </div>
 
+<center>
 <img src="./assets/cover.gif" alt="Cover" width="200" height="200">
-
+</center>
 <img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
 <p align="center">
@@ -58,9 +59,9 @@ Cybersecurity analyst | OSCP & eWPT Student
 
 <br>
 
-<img style="margin: 10px" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" />
-<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />
+<img style="margin: 10px" src="./svg/burpsuite.svg" alt="Cover" width="200" height="200"> alt="Burp Suite" height="50" />  
+<img style="margin: 10px" src="./svg/nmap.svg" alt="Cover" width="200" height="200"> alt="Nmap" height="50" />
+<img style="margin: 10px" src="./svg/wfuzz.svg" alt="Cover" width="200" height="200"> alt="Wfuzz" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
 <img style="margin: 10px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity" height="50" />
 <img style="margin: 10px" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="Hardhat" height="50" />
