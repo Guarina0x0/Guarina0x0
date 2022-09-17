@@ -19,9 +19,7 @@
 
 <a href="https://www.linkedin.com/in/antonio-gallego-lópez-14047b1bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:guarina000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://guarina0x0.github.io/index.html"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://tryhackme.com/p/Guarina000"><img src="./svg/tryhackme.png" width="111" height="28"></a>
-<a href="https://www.hackthebox.com/home/users/profile/408446"><img src="./svg/hackthebox.jpg"></a>
+<a href="https://guarina0x0.github.io/index.html"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=Guarina0x0&logoColor=white"></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
