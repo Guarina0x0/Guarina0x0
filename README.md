@@ -28,7 +28,7 @@ Cybersecurity analyst | OSCP & eWPT Student
 </p>
 
 
-## Connect with me <img src="https://giphy.com/gifs/bear-ketakuma-takadabear-RN89lrpGlBlBbspcef" width="60">
+## Connect with me <img src="https://giphy.com/gifs/bear-ketakuma-takadabear-RN89lrpGlBlBbspcef.gif" width="60">
 
 
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
