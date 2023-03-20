@@ -10,7 +10,7 @@
 <img align="right" src="./svg/logo.jpg" width="200" alt="There are no mistakes in life, only lessons"/></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Red+Team+Blockchain!;Currently+OSCP+eWPT+student"alt="Currently OSCP and eWPT student">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Red+Team+Blockchain!;Currently+OSCP+eWPT+student"alt="Currently OSCP student">
 </p>
 
 
