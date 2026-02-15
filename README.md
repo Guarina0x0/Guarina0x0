@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./svg/logo.jpg" width="120" alt="Guarina0x0" style="border-radius:50%"/>
+  <img src="./svg/logo.svg" width="160" alt="Guarina0x0"/>
   <br/>
   Guarina0x0
 </h1>
