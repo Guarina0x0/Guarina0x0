@@ -20,8 +20,6 @@
 
 Pentester & Security Consultant from Spain. Focused on **Active Directory**, **Cloud Security** (Azure/AWS) and **Red Team** operations.
 
-Started in cybersecurity through **CyberCamp INCIBE** and **Academia Hacker** (2020-2021). Self-taught spirit — failed computer science in school, now breaking into enterprise networks for a living.
-
 > *"There are no mistakes in life, only lessons"*
 
 ---
