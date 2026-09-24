@@ -42,8 +42,8 @@
 | **CARTP** | Certified Azure Red Team Professional | Altered Security | [verificar](https://www.credential.net/f4d8f49f-d851-4cde-8167-62067255b04a#acc.m2td8i0C) |
 | **CRTO** | Certified Red Team Operator | Zero-Point Security | [verificar](https://certs.zeropointsecurity.co.uk/edfafbfb-1936-4596-a989-360929e5e079#acc.jvwInLMK) |
 | **CRTP** | Certified Red Team Professional | Altered Security | [verificar](https://www.credential.net/6aa5eeab-b942-4241-a119-3f1ae971dab0#acc.RnH7icPt) |
-| **eCPPTv2** | Certified Professional Penetration Tester | eLearnSecurity / INE | [verificar](https://verified.elearnsecurity.com/certificates/1b79f5ae-b4f9-466b-b295-d5036d3b75b2) |
-| **eWPT** | Web Application Penetration Tester | eLearnSecurity / INE | [verificar](https://verified.elearnsecurity.com/certificates/4d193434-560d-40de-845e-412c276da0e0) |
+| **eCPPTv2** | Certified Professional Penetration Tester | eLearnSecurity / INE | [verificar](https://certs.ine.com/b9934d16-7ba4-4b14-981e-4e0dee168cf4#acc.BomRSJTK) |
+| **eWPT** | Web Application Penetration Tester | eLearnSecurity / INE | [verificar](https://certs.ine.com/e89f47ca-625b-4656-96e7-ef0a8324ef0d#acc.R9bZkoxF) |
 
 ---
 
