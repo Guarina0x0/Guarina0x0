@@ -38,7 +38,7 @@
 | Cert | Nombre completo | Entidad | |
 |:--|:--|:--|:--|
 | **CRTE** | Certified Red Team Expert | Altered Security | [verificar](https://www.credential.net/71c40f42-aabb-49c4-80f1-3f17b0155248#acc.h5SLtkHQ) |
-| **CWP** | Certified Wireless Professional | CyberWarFare Labs | [verificar](https://www.credential.net/043feaa3-5005-4f2f-ae85-75d0bacc57f8#acc.C6SI9s1x) |
+| **CWP** | Certified WiFiChallenge Professional | WiFi Challenge | [verificar](https://www.credential.net/043feaa3-5005-4f2f-ae85-75d0bacc57f8#acc.C6SI9s1x) |
 | **CARTP** | Certified Azure Red Team Professional | Altered Security | [verificar](https://www.credential.net/f4d8f49f-d851-4cde-8167-62067255b04a#acc.m2td8i0C) |
 | **CRTO** | Certified Red Team Operator | Zero-Point Security | [verificar](https://certs.zeropointsecurity.co.uk/edfafbfb-1936-4596-a989-360929e5e079#acc.jvwInLMK) |
 | **CRTP** | Certified Red Team Professional | Altered Security | [verificar](https://www.credential.net/6aa5eeab-b942-4241-a119-3f1ae971dab0#acc.RnH7icPt) |
